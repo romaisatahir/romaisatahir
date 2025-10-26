@@ -46,8 +46,10 @@ I’m open to **freelance projects**, **collaborations**, and **internship oppor
 * NLP-based Applications
 * Data Science & Automation
 
-    **Email:** romaisa.tahir@outlook.com
+📧 **Email:** romaisa.tahir@outlook.com
+  
 📫 **Reach me at:** [www.linkedin.com/in/romaisa-tahir-37592226b]
+
 🌐 **Fiverr Profile:** [https://www.fiverr.com/sellers/romaisatahir_ai]
 
 ---
