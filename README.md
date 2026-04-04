@@ -24,7 +24,7 @@ I specialize in building intelligent systems that bring data to life — transfo
 | ---------------- | ------------------------------------------------------ |
 | **Languages**    | Python, SQL                                            |
 | **Libraries**    | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch       |
-| **AI/ML**        | Supervised & Unsupervised Learning, NLP, Deep Learning, LLMs, AI Ageents |                         
+| **AI/ML**        | Supervised & Unsupervised Learning, NLP, Deep Learning, LLMs, AI Agents |                         
 | **Databases**    | MySQL, Vector / Chroma DB                              |
 | **Other Skills** | Data Cleaning, Model Deployment, API Integration       |
 
